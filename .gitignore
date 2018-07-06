@@ -1,3 +1,9 @@
 # iPython Checkpoints #
 #######################
 .ipynb_checkpoints/
+
+# Latex Temporary Files #
+#########################
+slides/*
+!slides/*.pdf
+!slides/imgs/*
